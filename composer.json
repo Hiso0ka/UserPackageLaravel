@@ -1,5 +1,5 @@
 {
-    "name": "vendor/package",
+    "name": "laraveluser/package",
     "type": "project",
     "description": "Package to create users modules",
     "keywords": [
