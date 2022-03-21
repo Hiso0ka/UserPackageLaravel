@@ -7,9 +7,7 @@
         "laravel"
     ],
     "license": "MIT",
-    "require": {
-        
-    },
+    "require": {},
     "require-dev": {
         "facade/ignition": "^2.3.6",
         "fzaninotto/faker": "^1.9.1",
