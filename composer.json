@@ -1,6 +1,6 @@
 {
-    "name": "laraveluser/package",
-    "type": "project",
+    "name": "ibermedia/user-package",
+    "type": "library",
     "description": "Package to create users modules",
     "keywords": [
         "framework",
